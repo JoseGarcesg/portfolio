@@ -1,0 +1,6 @@
+{
+  "name": "Personal Creative Portfolio",
+  "description": "A sleek, fully responsive and modern personal portfolio supporting real Strapi API consumption or a built-in mock database, styled with Tailwind CSS and advanced animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
